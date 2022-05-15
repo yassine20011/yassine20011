@@ -4,7 +4,7 @@ Hi 👋 My name is Yassine Amjad
 Web Developer
 -------------
 
-I'm a Python developer, and I'm interested in learning the rest of the stack. My experience is with Python, Node, and Django. I'm looking for a career development path for the next few years.
+I am an ambitious and eager to learn programmer. I have 3+ years of experience in different programming languages and technologies. I have knowledge in Python, Django, React, Node JS and recently I have started learning Typescript. I have achieved all this knowledge by learning from my own experience
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [yassine.amjad001@gmail.com](mailto:yassine.amjad001@gmail.com)
