@@ -8,7 +8,7 @@ I am ambitious to become a full-stack developer. I have 3+ years of experience i
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [yassine.amjad001@gmail.com](mailto:yassine.amjad001@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm currently learning React.js
 
 <a href="https://www.twitter.com/yassineamjad3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yassineamjad3?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
