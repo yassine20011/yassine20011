@@ -4,7 +4,7 @@ Hi 👋 My name is Yassine Amjad
 Web Developer
 -------------
 
-I am ambitious to become a full-stack developer. I have 3+ years of experience in different programming languages and technologies. I have knowledge at Python, Django, React, and Node JS, and recently I have started learning React JS. I have achieved all this knowledge by learning from my own experience, I want to learn and master the full stack of web development. I am willing to learn or add any back-end language that suits my requirements.
+I am ambitious to become a full-stack developer. I have 3+ years of experience in different programming languages and technologies. I have knowledge of C, Shell, Python, javascript, Django(framework), and Node JS, and recently I have started learning React JS. I have achieved all this knowledge by learning on my own, I want to learn and master web development. I am willing to learn or add any back-end language that suits my requirements.
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [yassine.amjad001@gmail.com](mailto:yassine.amjad001@gmail.com)
