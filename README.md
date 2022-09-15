@@ -10,7 +10,7 @@ I'm passionate about web development and I love to create things that help peopl
 I'm a self-taught developer and I'm always looking for new technologies to learn. Apart from web development, I also love to play video games and watch movies.
 
 * 🌍  I'm based in Morocco
-* ✉️  You can contact me at [yassine.amjad001@gmail.com](mailto:mail@yassineamjad.me)
+* ✉️  You can contact me at [mail@yassineamjad.me](mailto:mail@yassineamjad.me)
 * 🧠  I'm currently learning React.js
 
 <a href="https://www.twitter.com/yassineamjad3" target="_blank" rel="noreferrer"><img
