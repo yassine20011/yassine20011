@@ -13,10 +13,7 @@ I'm a self-taught developer and I'm always looking for new technologies to learn
 * ✉️  You can contact me at [mail@yassineamjad.me](mailto:mail@yassineamjad.me)
 * 🧠  I'm currently learning React.js
 
-<a href="https://www.twitter.com/yassineamjad3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/yassineamjad3?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
-/></a><a href="https://www.github.com/yassine20011" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/yassine20011?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+
 
 ### Skills
 
