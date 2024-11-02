@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am an engineering student with a passion for software engineering. I am always seeking new challenges and currently looking for a summer internship in 2025 as a software engineer.
+I am an engineering student with a passion for software engineering. I am always seeking new challenges and I am currently looking for a summer internship in 2025 as a software engineer or a part-time job.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-amjad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15410147/amd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yassineamjad3) 
