@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on web development projects.<br>👯 I’m looking to collaborate on creative coding activities.<br>🤝 I’m looking for help with advancing my programming skills.<br>🌱 I’m currently learning React.js and other web development technologies.<br>💬 Ask me about web development, video games, and movies.<br>⚡ Fun fact: I once tried to learn how to juggle, but my talents are better suited for juggling lines of code than juggling balls!
 
+I am an engineering student with a passion for software engineering. I am always seeking new challenges and currently looking for a summer internship in 2025 as a software engineer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-amjad) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15410147/amd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yassineamjad3) 
